@@ -1,0 +1,12 @@
+[
+ {
+  "op": "replace",
+  "path": "/shortdescription",
+  "value": "Tech Platform"
+ },
+ {
+  "op": "add",
+  "path": "/category",
+  "value": "platform"
+ }
+]

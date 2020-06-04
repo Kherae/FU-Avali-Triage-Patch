@@ -1,0 +1,12 @@
+{
+  "author" : "Kherae",
+  "description" : "What the patch does:\n\nAdds missing categories to blocks, for better Item Network support. Made adjustments to some descriptions, and to some names which were shared.\nReplaces references in produce-related recipes with their FU counterparts (including terramart sales).\nCleanly patches all objects that the coloriser supports to ensure they all retain color on breaking the object.\nPatches a few beds to have the 'bed' colony tag.\nReplaces entries in avali produce harvest pools, and avali merchant pools, with their FU equivalents",
+  "friendlyName" : "FU + Avali Triage Patch",
+  "includes" : [],
+  "link" : "steam://url/CommunityFilePage/2052758462",
+  "name" : "FUAvaliTriagePatch",
+  "requires" : ["Avali", "FrackinUniverse"],
+  "steamContentId" : "2052758462",
+  "tags" : "Miscellaneous",
+  "version" : "1.0.1"
+}

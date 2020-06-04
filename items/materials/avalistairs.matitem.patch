@@ -1,0 +1,22 @@
+[
+ {
+  "op": "replace",
+  "path": "/florandescription",
+  "value": "Ssstairs."
+ },
+ {
+  "op": "replace",
+  "path": "/glitchdescription",
+  "value": "Statement. An Avali set of stairs."
+ },
+ {
+  "op": "replace",
+  "path": "/description",
+  "value": "Stairs of Avali Design."
+ },
+ {
+  "op": "add",
+  "path": "/category",
+  "value": "platform"
+ }
+]

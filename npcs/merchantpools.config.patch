@@ -1,0 +1,32 @@
+[
+ {
+  "op": "replace",
+  "path": "/avaliingredients/0/1/10/item/name",
+  "value": "piruseed"
+ },
+ {
+  "op": "replace",
+  "path": "/avaliingredients/0/1/9/item/name",
+  "value": "nakatiseed"
+ },
+ {
+  "op": "replace",
+  "path": "/avaliingredients/0/1/8/item/name",
+  "value": "kirifruitseed"
+ },
+ {
+  "op": "replace",
+  "path": "/avaliingredients/0/1/2/item/name",
+  "value": "pirufrond"
+ },
+ {
+  "op": "replace",
+  "path": "/avaliingredients/0/1/1/item/name",
+  "value": "nakatibark"
+ },
+ {
+  "op": "replace",
+  "path": "/avaliingredients/0/1/0/item/name",
+  "value": "kirifruit"
+ }
+]

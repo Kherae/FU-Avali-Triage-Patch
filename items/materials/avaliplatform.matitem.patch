@@ -1,0 +1,22 @@
+[
+ {
+  "op": "replace",
+  "path": "/florandescription",
+  "value": "Floorrr."
+ },
+ {
+  "op": "replace",
+  "path": "/glitchdescription",
+  "value": "Statement. An Avali platform."
+ },
+ {
+  "op": "replace",
+  "path": "/description",
+  "value": "A platform of Avali design."
+ },
+ {
+  "op": "add",
+  "path": "/category",
+  "value": "platform"
+ }
+]

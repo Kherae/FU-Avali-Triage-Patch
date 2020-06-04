@@ -1,0 +1,11 @@
+[
+	[
+		{"op":"test","path":"/retainObjectParametersInItem","inverse":true},
+		{"op": "add","path": "/retainObjectParametersInItem","value": true}
+	],
+	[{
+		"op": "add",
+		"path": "/colonyTags/-",
+		"value": "bed"
+	}]
+]

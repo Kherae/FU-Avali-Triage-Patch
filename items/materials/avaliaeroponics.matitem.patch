@@ -1,0 +1,22 @@
+[
+ {
+  "op": "replace",
+  "path": "/shortdescription",
+  "value": "^cyan;Aeroponic Tubing^reset;"
+ },
+ {
+  "op": "replace",
+  "path": "/description",
+  "value": "Once tilled, these tubes transport a nutrient aerosol for growing plants within."
+ },
+ {
+  "op": "replace",
+  "path": "/rarity",
+  "value": "legendary"
+ },
+ {
+  "op": "add",
+  "path": "/category",
+  "value": "block"
+ }
+]

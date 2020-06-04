@@ -1,0 +1,12 @@
+[
+ {
+  "op": "replace",
+  "path": "/description",
+  "value": "Physical storage for physical backups."
+ },
+ {
+  "op": "add",
+  "path": "/category",
+  "value": "block"
+ }
+]

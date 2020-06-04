@@ -1,0 +1,67 @@
+[
+ {
+  "op": "replace",
+  "path": "/piruHarvest/0/1/pool/1/item/0",
+  "value": "piruseed"
+ },
+ {
+  "op": "replace",
+  "path": "/piruHarvest/0/1/pool/0/item/0",
+  "value": "pirufrond"
+ },
+ {
+  "op": "replace",
+  "path": "/piruHarvest/0/1/fill/1/item/0",
+  "value": "pirufrond"
+ },
+ {
+  "op": "replace",
+  "path": "/piruHarvest/0/1/fill/0/item/0",
+  "value": "piruseed"
+ },
+ {
+  "op": "replace",
+  "path": "/nakatiHarvest/0/1/pool/2/item/0",
+  "value": "nakatiseed"
+ },
+ {
+  "op": "replace",
+  "path": "/nakatiHarvest/0/1/pool/1/item/0",
+  "value": "nakatibark"
+ },
+ {
+  "op": "replace",
+  "path": "/nakatiHarvest/0/1/pool/0/item/0",
+  "value": "nakatibark"
+ },
+ {
+  "op": "replace",
+  "path": "/nakatiHarvest/0/1/fill/1/item/0",
+  "value": "nakatibark"
+ },
+ {
+  "op": "replace",
+  "path": "/nakatiHarvest/0/1/fill/0/item/0",
+  "value": "nakatiseed"
+ },
+ {
+  "op": "replace",
+  "path": "/kiriHarvest/0/1/pool/1/item/0",
+  "value": "kirifruitseed"
+ },
+ {
+  "op": "replace",
+  "path": "/kiriHarvest/0/1/pool/0/item/0",
+  "value": "kirifruit"
+ },
+ {
+  "op": "replace",
+  "path": "/kiriHarvest/0/1/fill/1/item/0",
+  "value": "kirifruit"
+ },
+ {
+  "op": "replace",
+  "path": "/kiriHarvest/0/1/fill/0/item/0",
+  "value": "kirifruitseed"
+ }
+]
