@@ -1,7 +1,12 @@
 [
- {
-  "op": "replace",
-  "path": "/input/1/item",
-  "value": "nakatibark"
- }
+	{
+		"op": "replace",
+		"path": "/input/1/item",
+		"value": "nakatibark"
+	},
+	{
+		"op": "add",
+		"path": "/groups/-",
+		"value": "craftingfood"
+	}
 ]
