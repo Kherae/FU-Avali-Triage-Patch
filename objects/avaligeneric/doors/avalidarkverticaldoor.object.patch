@@ -1,0 +1,12 @@
+[
+	[
+		{"op":"test","path":"/retainObjectParametersInItem","inverse":true},
+		{"op": "add","path": "/retainObjectParametersInItem","value": true}
+	],
+	[{
+		"op": "add",
+		"path": "/itemTags",
+		"value": ["coloriser"]
+	}]
+
+]
