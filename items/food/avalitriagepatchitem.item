@@ -1,0 +1,11 @@
+{
+  "itemName" : "avalitriagepatchitem",
+  "price" : 15,
+  "category" : "cookingIngredient",
+  "rarity" : "Common",
+  "inventoryIcon" : "avaliproduce1.png",
+  "description" : "This exists purely to tell that the patch exists.",
+  "shortdescription" : "Fake Fruit",
+  "handPosition" : [7, 0],
+  "learnBlueprintsOnPickup" : []
+}
