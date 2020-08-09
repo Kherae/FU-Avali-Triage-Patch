@@ -1,7 +1,3 @@
 [
- {
-  "op": "add",
-  "path": "/category",
-  "value": "spear"
- }
+	[{"op": "add","path": "/category","value": "spear"}]
 ]

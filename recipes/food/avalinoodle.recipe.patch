@@ -1,12 +1,4 @@
 [
-	{
-		"op": "replace",
-		"path": "/input/1/item",
-		"value": "kirifruit"
-	},
-	{
-		"op": "add",
-		"path": "/groups/-",
-		"value": "craftingfood"
-	}
+	[{"op": "replace","path": "/input/1/item","value": "kirifruit"}],
+	[{"op": "add","path": "/groups/-","value": "craftingfood"}]
 ]

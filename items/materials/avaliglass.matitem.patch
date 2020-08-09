@@ -1,7 +1,3 @@
 [
- {
-  "op": "replace",
-  "path": "/description",
-  "value": "Wonderful orange-tinted glass."
- }
+	[{"op": "replace","path": "/description","value": "Wonderful orange-tinted glass."}]
 ]

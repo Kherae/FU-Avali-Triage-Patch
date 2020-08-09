@@ -1,11 +1,9 @@
-[
-    { "op": "replace", 
-    "path" : "/charCreationTooltip/description" , 
-    "value" : ""
-    },
-    { "op": "replace", 
-    "path" : "/charCreationTooltip/description" , 
-    "value" : "Adorable fuzzy space raptors with wings. Highly adapted to arctic climates and low gravity, they can use the wind to control their falls, and they are deadly with heavy weapons. 
+[{ "op": "replace", 
+	"path" : "/charCreationTooltip/description" , 
+	"value" : ""
+		},{ "op": "replace", 
+	"path" : "/charCreationTooltip/description" , 
+	"value" : "Adorable fuzzy space raptors with wings. Highly adapted to arctic climates and low gravity, they can use the wind to control their falls, and they are deadly with heavy weapons. 
 
  Diet: Omnivore 
  
@@ -29,6 +27,6 @@
  
  ^red;Weaknesses^reset;: 
  Weak: -^red;40%^reset; Fire" 
-    }
+		}
 ]
  

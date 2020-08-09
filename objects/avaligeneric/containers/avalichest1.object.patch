@@ -1,14 +1,5 @@
 [
-	[
-		{"op":"test","path":"/retainObjectParametersInItem","inverse":true},
-		{"op": "add","path": "/retainObjectParametersInItem","value": true}
-	],
-	[
-		{"op":"test","path":"/itemTags"},
-		{"op": "add","path": "/itemTags/-","value": "coloriser"}
-	],
-	[
-		{"op":"test","path":"/itemTags","inverse":true},
-		{"op": "add","path": "/itemTags","value": ["coloriser"]}
-	]
+	[{"op":"test","path":"/retainObjectParametersInItem","inverse":true},{"op": "add","path": "/retainObjectParametersInItem","value": true}],
+	[{"op":"test","path":"/itemTags"},{"op": "add","path": "/itemTags/-","value": "coloriser"}],
+	[{"op":"test","path":"/itemTags","inverse":true},{"op": "add","path": "/itemTags","value": ["coloriser"]}]
 ]

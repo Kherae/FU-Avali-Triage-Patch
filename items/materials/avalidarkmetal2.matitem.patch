@@ -1,12 +1,4 @@
 [
- {
-  "op": "replace",
-  "path": "/description",
-  "value": "A dark metal panel."
- },
- {
-  "op": "add",
-  "path": "/category",
-  "value": "block"
- }
+	[{"op": "replace","path": "/description","value": "A dark metal panel."}],
+	[{"op": "add","path": "/category","value": "block"}]
 ]

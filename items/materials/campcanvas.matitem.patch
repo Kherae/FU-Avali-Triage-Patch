@@ -1,12 +1,4 @@
 [
- {
-  "op": "replace",
-  "path": "/description",
-  "value": "Ultra light, yet ultra strong. Avali tents can stop bullets!"
- },
- {
-  "op": "add",
-  "path": "/category",
-  "value": "block"
- }
+	[{"op": "replace","path": "/description","value": "Ultra light, yet ultra strong. Avali tents can stop bullets!"}],
+	[{"op": "add","path": "/category","value": "block"}]
 ]

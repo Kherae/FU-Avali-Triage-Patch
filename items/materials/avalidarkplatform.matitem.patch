@@ -1,17 +1,5 @@
 [
- {
-  "op": "replace",
-  "path": "/shortdescription",
-  "value": "Dark Metal Platform"
- },
- {
-  "op": "replace",
-  "path": "/description",
-  "value": "A dark metal platform."
- },
- {
-  "op": "add",
-  "path": "/category",
-  "value": "platform"
- }
+	[{"op": "replace","path": "/shortdescription","value": "Dark Metal Platform"}],
+	[{"op": "replace","path": "/description","value": "A dark metal platform."}],
+	[{"op": "add","path": "/category","value": "platform"}]
 ]

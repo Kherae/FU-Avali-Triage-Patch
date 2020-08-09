@@ -1,7 +1,3 @@
 [
- {
-  "op": "add",
-  "path": "/category",
-  "value": "platform"
- }
+	[{"op": "add","path": "/category","value": "platform"}]
 ]

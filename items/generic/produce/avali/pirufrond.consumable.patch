@@ -1,9 +1,3 @@
 [
- {
-  "op": "add",
-  "path": "/learnBlueprintsOnPickup",
-  "value": [
-   "avaliflour"
-  ]
- }
+	[{"op": "add","path": "/learnBlueprintsOnPickup","value": [ "avaliflour"]}]
 ]

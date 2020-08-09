@@ -1,12 +1,4 @@
 [
- {
-  "op": "replace",
-  "path": "/description",
-  "value": "Plating in the shape of, and possibly inspired by, a Glitch hive."
- },
- {
-  "op": "add",
-  "path": "/category",
-  "value": "block"
- }
+	[{"op": "replace","path": "/description","value": "Plating in the shape of, and possibly inspired by, a Glitch hive."}],
+	[{"op": "add","path": "/category","value": "block"}]
 ]

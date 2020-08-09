@@ -1,7 +1,3 @@
 [
- {
-  "op": "replace",
-  "path": "/output/item",
-  "value": "nakatiseed"
- }
+	[{"op": "replace","path": "/output/item","value": "nakatiseed"}]
 ]

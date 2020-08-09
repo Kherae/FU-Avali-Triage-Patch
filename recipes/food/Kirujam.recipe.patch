@@ -1,7 +1,3 @@
 [
- {
-  "op": "replace",
-  "path": "/input/1/item",
-  "value": "kirifruit"
- }
+	[{"op": "replace","path": "/input/1/item","value": "kirifruit"}]
 ]
