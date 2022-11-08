@@ -1,0 +1,11 @@
+produce 1 = kiri
+produce 2 = nakati
+produce 3 = piru
+
+avaliproduce1 = kirifruit
+avaliproduce2 = nakatibark
+avaliproduce3 = pirufrond
+
+avaliplant1 = kirifruitseed
+avaliplant2 = nakatiseed
+avaliplant3 = piruseed
