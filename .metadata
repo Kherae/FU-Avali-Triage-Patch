@@ -5,7 +5,7 @@
   "includes" : ["Avali Plus", "AvaliFoodAndDrink", "AvaliFoodAndDrinkNomadic", "Avali Augments And Assorments: Revisited"],
   "link" : "steam://url/CommunityFilePage/2052758462",
   "name" : "FUAvaliTriagePatch",
-  "requires" : ["Avali", "FrackinUniverse"],
+  "requires" : ["Avali", "FrackinUniverse","avalonculture"],
   "steamContentId" : "2052758462",
   "tags" : "Miscellaneous",
   "version" : "1.2.8.1"

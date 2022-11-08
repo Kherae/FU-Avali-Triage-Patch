@@ -1,0 +1,4 @@
+[
+	[{"op": "replace","path": "/input/0/item","value": "kirifruit"}],
+	[{"op": "add","path": "/groups/-","value": "craftingfood"}]
+]
